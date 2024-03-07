@@ -1,0 +1,24 @@
+{
+  "name": "chat_notgpt",
+  "version": "1.0.0",
+  "description": "This is a chat app made by Nico Horn",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "chat",
+    "terminal"
+  ],
+  "author": "Nico Horn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
